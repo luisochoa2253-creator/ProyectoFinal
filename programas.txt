@@ -1,0 +1,7 @@
+void main() {
+  int mi_variable;
+  mi_variable = 10 * 2;
+  while (mi_variable > 0) {
+    mi_variable = mi_variable - 1;
+  }
+}
